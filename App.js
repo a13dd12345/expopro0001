@@ -9,6 +9,7 @@ export default function App() {
       <Text>Test 2</Text>
       <Text>Test 3</Text>
       <Text>Test 4</Text>
+      <Text>Test 5</Text>
       <StatusBar style="auto" />
     </View>
   );
